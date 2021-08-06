@@ -1,0 +1,6 @@
+{
+    "phpformatter.arguments": [
+    
+        "--level=psr2"
+    ]
+}
